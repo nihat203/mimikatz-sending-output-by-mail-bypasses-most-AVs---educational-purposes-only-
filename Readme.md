@@ -1,4 +1,4 @@
-By using this you agree that you will use this only for educational purposes
+BY USING THIS YOU AGREE THAT YOU WILL USE THIS ONLY FOR EDUCATIONAL PURPOSES
 
 This tool uses mimikatz processed with darkarmour. Then it opens multiple notepad files to bypass some AVs. 
 For mail part you need to create Yandex mail, because yandex supports mails sent by "unknown" apps.

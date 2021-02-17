@@ -1,3 +1,5 @@
+batch files lmao idk why not made compiled version
+
 BY USING THIS YOU AGREE THAT YOU WILL USE THIS ONLY FOR EDUCATIONAL PURPOSES
 
 This tool uses mimikatz processed with darkarmour. Then it opens multiple notepad files to bypass some AVs. 
